@@ -1,2 +1,1 @@
-este si es el archivo Esto es de la rama pruebas 
-es distinto a la master 
+estos cambios van apra el repositorio remoto
